@@ -1,0 +1,29 @@
+[0.626s] Invoking command in '/root/my_robot_ws_copy/build/teleop_twist_keyboard': PYTHONPATH=/root/my_robot_ws_copy/build/teleop_twist_keyboard/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/my_robot_ws_copy/install/teleop_twist_keyboard/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /root/my_robot_ws_copy/build/teleop_twist_keyboard/build
+[0.851s] running develop
+[0.951s] Removing /root/my_robot_ws_copy/install/teleop_twist_keyboard/lib/python3.10/site-packages/teleop-twist-keyboard.egg-link (link to .)
+[0.987s] Invoked command in '/root/my_robot_ws_copy/build/teleop_twist_keyboard' returned '0': PYTHONPATH=/root/my_robot_ws_copy/build/teleop_twist_keyboard/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/my_robot_ws_copy/install/teleop_twist_keyboard/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /root/my_robot_ws_copy/build/teleop_twist_keyboard/build
+[0.988s] Invoking command in '/root/my_robot_ws_copy/src/teleop_twist_keyboard': PYTHONPATH=/root/my_robot_ws_copy/build/teleop_twist_keyboard/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/my_robot_ws_copy/install/teleop_twist_keyboard/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/teleop_twist_keyboard build --build-base /root/my_robot_ws_copy/build/teleop_twist_keyboard/build install --record /root/my_robot_ws_copy/build/teleop_twist_keyboard/install.log --single-version-externally-managed install_data --force
+[1.190s] running egg_info
+[1.191s] writing ../../build/teleop_twist_keyboard/teleop_twist_keyboard.egg-info/PKG-INFO
+[1.191s] writing dependency_links to ../../build/teleop_twist_keyboard/teleop_twist_keyboard.egg-info/dependency_links.txt
+[1.191s] writing entry points to ../../build/teleop_twist_keyboard/teleop_twist_keyboard.egg-info/entry_points.txt
+[1.191s] writing requirements to ../../build/teleop_twist_keyboard/teleop_twist_keyboard.egg-info/requires.txt
+[1.191s] writing top-level names to ../../build/teleop_twist_keyboard/teleop_twist_keyboard.egg-info/top_level.txt
+[1.194s] reading manifest file '../../build/teleop_twist_keyboard/teleop_twist_keyboard.egg-info/SOURCES.txt'
+[1.194s] adding license file 'LICENSE'
+[1.195s] writing manifest file '../../build/teleop_twist_keyboard/teleop_twist_keyboard.egg-info/SOURCES.txt'
+[1.196s] running build
+[1.196s] running build_py
+[1.196s] running install
+[1.197s] running install_lib
+[1.198s] copying /root/my_robot_ws_copy/build/teleop_twist_keyboard/build/lib/teleop_twist_keyboard.py -> /root/my_robot_ws_copy/install/teleop_twist_keyboard/lib/python3.10/site-packages
+[1.199s] byte-compiling /root/my_robot_ws_copy/install/teleop_twist_keyboard/lib/python3.10/site-packages/teleop_twist_keyboard.py to teleop_twist_keyboard.cpython-310.pyc
+[1.200s] running install_data
+[1.200s] copying resource/teleop_twist_keyboard -> /root/my_robot_ws_copy/install/teleop_twist_keyboard/share/ament_index/resource_index/packages
+[1.200s] copying package.xml -> /root/my_robot_ws_copy/install/teleop_twist_keyboard/share/teleop_twist_keyboard
+[1.201s] running install_egg_info
+[1.203s] Copying ../../build/teleop_twist_keyboard/teleop_twist_keyboard.egg-info to /root/my_robot_ws_copy/install/teleop_twist_keyboard/lib/python3.10/site-packages/teleop_twist_keyboard-2.4.0-py3.10.egg-info
+[1.203s] running install_scripts
+[1.225s] Installing teleop_twist_keyboard script to /root/my_robot_ws_copy/install/teleop_twist_keyboard/lib/teleop_twist_keyboard
+[1.226s] writing list of installed files to '/root/my_robot_ws_copy/build/teleop_twist_keyboard/install.log'
+[1.260s] Invoked command in '/root/my_robot_ws_copy/src/teleop_twist_keyboard' returned '0': PYTHONPATH=/root/my_robot_ws_copy/build/teleop_twist_keyboard/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/my_robot_ws_copy/install/teleop_twist_keyboard/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/teleop_twist_keyboard build --build-base /root/my_robot_ws_copy/build/teleop_twist_keyboard/build install --record /root/my_robot_ws_copy/build/teleop_twist_keyboard/install.log --single-version-externally-managed install_data --force

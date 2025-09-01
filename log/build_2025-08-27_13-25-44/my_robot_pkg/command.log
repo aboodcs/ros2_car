@@ -1,0 +1,6 @@
+Invoking command in '/root/my_robot_ws_copy/build/my_robot_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /root/my_robot_ws_copy/src/my_robot_pkg -DCMAKE_INSTALL_PREFIX=/root/my_robot_ws_copy/install/my_robot_pkg
+Invoked command in '/root/my_robot_ws_copy/build/my_robot_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /root/my_robot_ws_copy/src/my_robot_pkg -DCMAKE_INSTALL_PREFIX=/root/my_robot_ws_copy/install/my_robot_pkg
+Invoking command in '/root/my_robot_ws_copy/build/my_robot_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /root/my_robot_ws_copy/build/my_robot_pkg -- -j12 -l12
+Invoked command in '/root/my_robot_ws_copy/build/my_robot_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /root/my_robot_ws_copy/build/my_robot_pkg -- -j12 -l12
+Invoking command in '/root/my_robot_ws_copy/build/my_robot_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /root/my_robot_ws_copy/build/my_robot_pkg
+Invoked command in '/root/my_robot_ws_copy/build/my_robot_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /root/my_robot_ws_copy/build/my_robot_pkg

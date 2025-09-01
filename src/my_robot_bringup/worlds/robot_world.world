@@ -1,0 +1,96 @@
+<?xml version="1.0" ?>
+<sdf version="1.7">
+  <world name="robot_world">
+
+    <!-- Sunlight -->
+    <include>
+      <uri>model://sun</uri>
+    </include>
+
+    <!-- Ground plane -->
+    <include>
+      <uri>model://ground_plane</uri>
+    </include>
+
+    <!-- Large boundary walls (50x50m arena) -->
+    <model name="wall_north">
+      <pose>0 25 1 0 0 0</pose>
+      <link name="link">
+        <collision name="collision">
+          <geometry><box><size>50 0.5 2</size></box></geometry>
+        </collision>
+        <visual name="visual">
+          <geometry><box><size>50 0.5 2</size></box></geometry>
+          <material><diffuse>0.9 0.9 0.9 1</diffuse></material>
+        </visual>
+      </link>
+    </model>
+
+    <model name="wall_south">
+      <pose>0 -25 1 0 0 0</pose>
+      <link name="link">
+        <collision name="collision">
+          <geometry><box><size>50 0.5 2</size></box></geometry>
+        </collision>
+        <visual name="visual">
+          <geometry><box><size>50 0.5 2</size></box></geometry>
+          <material><diffuse>0.9 0.9 0.9 1</diffuse></material>
+        </visual>
+      </link>
+    </model>
+
+    <model name="wall_east">
+      <pose>25 0 1 0 0 0</pose>
+      <link name="link">
+        <collision name="collision">
+          <geometry><box><size>0.5 50 2</size></box></geometry>
+        </collision>
+        <visual name="visual">
+          <geometry><box><size>0.5 50 2</size></box></geometry>
+          <material><diffuse>0.9 0.9 0.9 1</diffuse></material>
+        </visual>
+      </link>
+    </model>
+
+    <model name="wall_west">
+      <pose>-25 0 1 0 0 0</pose>
+      <link name="link">
+        <collision name="collision">
+          <geometry><box><size>0.5 50 2</size></box></geometry>
+        </collision>
+        <visual name="visual">
+          <geometry><box><size>0.5 50 2</size></box></geometry>
+          <material><diffuse>0.9 0.9 0.9 1</diffuse></material>
+        </visual>
+      </link>
+    </model>
+
+    <!-- A few far obstacles to test sensors at high speed -->
+    <model name="big_box">
+      <pose>10 10 1 0 0 0</pose>
+      <link name="link">
+        <collision name="collision">
+          <geometry><box><size>2 2 2</size></box></geometry>
+        </collision>
+        <visual name="visual">
+          <geometry><box><size>2 2 2</size></box></geometry>
+          <material><diffuse>0.8 0.2 0.2 1</diffuse></material>
+        </visual>
+      </link>
+    </model>
+
+    <model name="tall_cylinder">
+      <pose>-15 -10 2 0 0 0</pose>
+      <link name="link">
+        <collision name="collision">
+          <geometry><cylinder><radius>1</radius><length>4</length></cylinder></geometry>
+        </collision>
+        <visual name="visual">
+          <geometry><cylinder><radius>1</radius><length>4</length></cylinder></geometry>
+          <material><diffuse>0.2 0.2 0.8 1</diffuse></material>
+        </visual>
+      </link>
+    </model>
+
+  </world>
+</sdf>

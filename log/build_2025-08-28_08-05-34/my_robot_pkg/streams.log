@@ -1,0 +1,28 @@
+[0.020s] Invoking command in '/root/my_robot_ws_copy/build/my_robot_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/root/my_robot_ws_copy/install/teleop_twist_keyboard:/root/my_robot_ws/install/my_robot_pkg:/opt/ros/humble /usr/bin/cmake --build /root/my_robot_ws_copy/build/my_robot_pkg -- -j12 -l12
+[0.227s] Invoked command in '/root/my_robot_ws_copy/build/my_robot_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/root/my_robot_ws_copy/install/teleop_twist_keyboard:/root/my_robot_ws/install/my_robot_pkg:/opt/ros/humble /usr/bin/cmake --build /root/my_robot_ws_copy/build/my_robot_pkg -- -j12 -l12
+[0.240s] Invoking command in '/root/my_robot_ws_copy/build/my_robot_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/root/my_robot_ws_copy/install/teleop_twist_keyboard:/root/my_robot_ws/install/my_robot_pkg:/opt/ros/humble /usr/bin/cmake --install /root/my_robot_ws_copy/build/my_robot_pkg
+[0.248s] -- Install configuration: ""
+[0.249s] -- Execute custom install script
+[0.249s] -- Up-to-date symlink: /root/my_robot_ws_copy/install/my_robot_pkg/share/my_robot_pkg/urdf/common_properties.xacro
+[0.249s] -- Up-to-date symlink: /root/my_robot_ws_copy/install/my_robot_pkg/share/my_robot_pkg/urdf/mobile_base.xacro
+[0.250s] -- Up-to-date symlink: /root/my_robot_ws_copy/install/my_robot_pkg/share/my_robot_pkg/urdf/mobile_base_gazebo.xacro
+[0.250s] -- Up-to-date symlink: /root/my_robot_ws_copy/install/my_robot_pkg/share/my_robot_pkg/urdf/my_robot.urdf
+[0.250s] -- Up-to-date symlink: /root/my_robot_ws_copy/install/my_robot_pkg/share/my_robot_pkg/urdf/my_robot.urdf.xacro
+[0.250s] -- Up-to-date symlink: /root/my_robot_ws_copy/install/my_robot_pkg/share/my_robot_pkg/rviz/urdf_config.rviz
+[0.250s] -- Up-to-date symlink: /root/my_robot_ws_copy/install/my_robot_pkg/share/my_robot_pkg/launch/display.launch.xml
+[0.250s] -- Up-to-date symlink: /root/my_robot_ws_copy/install/my_robot_pkg/share/ament_index/resource_index/package_run_dependencies/my_robot_pkg
+[0.251s] -- Up-to-date symlink: /root/my_robot_ws_copy/install/my_robot_pkg/share/ament_index/resource_index/parent_prefix_path/my_robot_pkg
+[0.251s] -- Up-to-date symlink: /root/my_robot_ws_copy/install/my_robot_pkg/share/my_robot_pkg/environment/ament_prefix_path.sh
+[0.251s] -- Up-to-date symlink: /root/my_robot_ws_copy/install/my_robot_pkg/share/my_robot_pkg/environment/ament_prefix_path.dsv
+[0.251s] -- Up-to-date symlink: /root/my_robot_ws_copy/install/my_robot_pkg/share/my_robot_pkg/environment/path.sh
+[0.251s] -- Up-to-date symlink: /root/my_robot_ws_copy/install/my_robot_pkg/share/my_robot_pkg/environment/path.dsv
+[0.251s] -- Up-to-date symlink: /root/my_robot_ws_copy/install/my_robot_pkg/share/my_robot_pkg/local_setup.bash
+[0.252s] -- Up-to-date symlink: /root/my_robot_ws_copy/install/my_robot_pkg/share/my_robot_pkg/local_setup.sh
+[0.252s] -- Up-to-date symlink: /root/my_robot_ws_copy/install/my_robot_pkg/share/my_robot_pkg/local_setup.zsh
+[0.252s] -- Up-to-date symlink: /root/my_robot_ws_copy/install/my_robot_pkg/share/my_robot_pkg/local_setup.dsv
+[0.252s] -- Symlinking: /root/my_robot_ws_copy/install/my_robot_pkg/share/my_robot_pkg/package.dsv
+[0.263s] -- Up-to-date symlink: /root/my_robot_ws_copy/install/my_robot_pkg/share/ament_index/resource_index/packages/my_robot_pkg
+[0.263s] -- Up-to-date symlink: /root/my_robot_ws_copy/install/my_robot_pkg/share/my_robot_pkg/cmake/my_robot_pkgConfig.cmake
+[0.263s] -- Up-to-date symlink: /root/my_robot_ws_copy/install/my_robot_pkg/share/my_robot_pkg/cmake/my_robot_pkgConfig-version.cmake
+[0.263s] -- Up-to-date symlink: /root/my_robot_ws_copy/install/my_robot_pkg/share/my_robot_pkg/package.xml
+[0.265s] Invoked command in '/root/my_robot_ws_copy/build/my_robot_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/root/my_robot_ws_copy/install/teleop_twist_keyboard:/root/my_robot_ws/install/my_robot_pkg:/opt/ros/humble /usr/bin/cmake --install /root/my_robot_ws_copy/build/my_robot_pkg

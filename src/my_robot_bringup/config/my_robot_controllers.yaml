@@ -1,0 +1,13 @@
+controller_manager:
+  ros__parameters:
+    update_rate: 50
+
+diff_drive_controller:
+  ros__parameters:
+    type: "diff_drive_controller/DiffDriveController"
+    left_wheel: "left_wheel"
+    right_wheel: "right_wheel"
+    wheel_separation: 0.45
+    wheel_radius: 0.1
+    cmd_vel_timeout: 0.25
+    publish_rate: 50

@@ -1,0 +1,52 @@
+[0.010s] Invoking command in '/root/my_robot_ws_copy/build/my_robot_pkg': /usr/bin/cmake /root/my_robot_ws_copy/src/my_robot_pkg -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/root/my_robot_ws_copy/install/my_robot_pkg
+[0.080s] -- The C compiler identification is GNU 11.4.0
+[0.145s] -- The CXX compiler identification is GNU 11.4.0
+[0.153s] -- Detecting C compiler ABI info
+[0.232s] -- Detecting C compiler ABI info - done
+[0.238s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.238s] -- Detecting C compile features
+[0.238s] -- Detecting C compile features - done
+[0.242s] -- Detecting CXX compiler ABI info
+[0.330s] -- Detecting CXX compiler ABI info - done
+[0.337s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.337s] -- Detecting CXX compile features
+[0.337s] -- Detecting CXX compile features - done
+[0.340s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.597s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.668s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.716s] -- Found xacro: 2.0.13 (/opt/ros/humble/share/xacro/cmake)
+[0.719s] -- Found ament_lint_auto: 0.12.12 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.837s] -- Added test 'lint_cmake' to check CMake code style
+[0.838s] -- Added test 'xmllint' to check XML markup files
+[0.838s] -- Configuring done
+[0.840s] -- Generating done
+[0.842s] -- Build files have been written to: /root/my_robot_ws_copy/build/my_robot_pkg
+[0.847s] Invoked command in '/root/my_robot_ws_copy/build/my_robot_pkg' returned '0': /usr/bin/cmake /root/my_robot_ws_copy/src/my_robot_pkg -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/root/my_robot_ws_copy/install/my_robot_pkg
+[0.850s] Invoking command in '/root/my_robot_ws_copy/build/my_robot_pkg': /usr/bin/cmake --build /root/my_robot_ws_copy/build/my_robot_pkg -- -j12 -l12
+[0.887s] Invoked command in '/root/my_robot_ws_copy/build/my_robot_pkg' returned '0': /usr/bin/cmake --build /root/my_robot_ws_copy/build/my_robot_pkg -- -j12 -l12
+[0.894s] Invoking command in '/root/my_robot_ws_copy/build/my_robot_pkg': /usr/bin/cmake --install /root/my_robot_ws_copy/build/my_robot_pkg
+[0.903s] -- Install configuration: ""
+[0.904s] -- Execute custom install script
+[0.905s] -- Symlinking: /root/my_robot_ws_copy/install/my_robot_pkg/share/my_robot_pkg/urdf/common_properties.xacro
+[0.919s] -- Symlinking: /root/my_robot_ws_copy/install/my_robot_pkg/share/my_robot_pkg/urdf/mobile_base.xacro
+[0.929s] -- Symlinking: /root/my_robot_ws_copy/install/my_robot_pkg/share/my_robot_pkg/urdf/mobile_base_gazebo.xacro
+[0.939s] -- Symlinking: /root/my_robot_ws_copy/install/my_robot_pkg/share/my_robot_pkg/urdf/my_robot.urdf
+[0.948s] -- Symlinking: /root/my_robot_ws_copy/install/my_robot_pkg/share/my_robot_pkg/urdf/my_robot.urdf.xacro
+[0.961s] -- Symlinking: /root/my_robot_ws_copy/install/my_robot_pkg/share/my_robot_pkg/rviz/urdf_config.rviz
+[0.977s] -- Symlinking: /root/my_robot_ws_copy/install/my_robot_pkg/share/my_robot_pkg/launch/display.launch.xml
+[0.990s] -- Symlinking: /root/my_robot_ws_copy/install/my_robot_pkg/share/ament_index/resource_index/package_run_dependencies/my_robot_pkg
+[1.005s] -- Symlinking: /root/my_robot_ws_copy/install/my_robot_pkg/share/ament_index/resource_index/parent_prefix_path/my_robot_pkg
+[1.022s] -- Symlinking: /root/my_robot_ws_copy/install/my_robot_pkg/share/my_robot_pkg/environment/ament_prefix_path.sh
+[1.036s] -- Symlinking: /root/my_robot_ws_copy/install/my_robot_pkg/share/my_robot_pkg/environment/ament_prefix_path.dsv
+[1.059s] -- Symlinking: /root/my_robot_ws_copy/install/my_robot_pkg/share/my_robot_pkg/environment/path.sh
+[1.076s] -- Symlinking: /root/my_robot_ws_copy/install/my_robot_pkg/share/my_robot_pkg/environment/path.dsv
+[1.097s] -- Symlinking: /root/my_robot_ws_copy/install/my_robot_pkg/share/my_robot_pkg/local_setup.bash
+[1.114s] -- Symlinking: /root/my_robot_ws_copy/install/my_robot_pkg/share/my_robot_pkg/local_setup.sh
+[1.136s] -- Symlinking: /root/my_robot_ws_copy/install/my_robot_pkg/share/my_robot_pkg/local_setup.zsh
+[1.157s] -- Symlinking: /root/my_robot_ws_copy/install/my_robot_pkg/share/my_robot_pkg/local_setup.dsv
+[1.176s] -- Symlinking: /root/my_robot_ws_copy/install/my_robot_pkg/share/my_robot_pkg/package.dsv
+[1.200s] -- Symlinking: /root/my_robot_ws_copy/install/my_robot_pkg/share/ament_index/resource_index/packages/my_robot_pkg
+[1.221s] -- Symlinking: /root/my_robot_ws_copy/install/my_robot_pkg/share/my_robot_pkg/cmake/my_robot_pkgConfig.cmake
+[1.237s] -- Symlinking: /root/my_robot_ws_copy/install/my_robot_pkg/share/my_robot_pkg/cmake/my_robot_pkgConfig-version.cmake
+[1.265s] -- Symlinking: /root/my_robot_ws_copy/install/my_robot_pkg/share/my_robot_pkg/package.xml
+[1.295s] Invoked command in '/root/my_robot_ws_copy/build/my_robot_pkg' returned '0': /usr/bin/cmake --install /root/my_robot_ws_copy/build/my_robot_pkg

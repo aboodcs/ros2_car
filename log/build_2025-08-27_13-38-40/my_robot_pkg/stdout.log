@@ -1,0 +1,24 @@
+-- Install configuration: ""
+-- Execute custom install script
+-- Up-to-date symlink: /root/my_robot_ws_copy/install/my_robot_pkg/share/my_robot_pkg/urdf/common_properties.xacro
+-- Up-to-date symlink: /root/my_robot_ws_copy/install/my_robot_pkg/share/my_robot_pkg/urdf/mobile_base.xacro
+-- Up-to-date symlink: /root/my_robot_ws_copy/install/my_robot_pkg/share/my_robot_pkg/urdf/mobile_base_gazebo.xacro
+-- Up-to-date symlink: /root/my_robot_ws_copy/install/my_robot_pkg/share/my_robot_pkg/urdf/my_robot.urdf
+-- Up-to-date symlink: /root/my_robot_ws_copy/install/my_robot_pkg/share/my_robot_pkg/urdf/my_robot.urdf.xacro
+-- Up-to-date symlink: /root/my_robot_ws_copy/install/my_robot_pkg/share/my_robot_pkg/rviz/urdf_config.rviz
+-- Up-to-date symlink: /root/my_robot_ws_copy/install/my_robot_pkg/share/my_robot_pkg/launch/display.launch.xml
+-- Up-to-date symlink: /root/my_robot_ws_copy/install/my_robot_pkg/share/ament_index/resource_index/package_run_dependencies/my_robot_pkg
+-- Up-to-date symlink: /root/my_robot_ws_copy/install/my_robot_pkg/share/ament_index/resource_index/parent_prefix_path/my_robot_pkg
+-- Up-to-date symlink: /root/my_robot_ws_copy/install/my_robot_pkg/share/my_robot_pkg/environment/ament_prefix_path.sh
+-- Up-to-date symlink: /root/my_robot_ws_copy/install/my_robot_pkg/share/my_robot_pkg/environment/ament_prefix_path.dsv
+-- Up-to-date symlink: /root/my_robot_ws_copy/install/my_robot_pkg/share/my_robot_pkg/environment/path.sh
+-- Up-to-date symlink: /root/my_robot_ws_copy/install/my_robot_pkg/share/my_robot_pkg/environment/path.dsv
+-- Up-to-date symlink: /root/my_robot_ws_copy/install/my_robot_pkg/share/my_robot_pkg/local_setup.bash
+-- Up-to-date symlink: /root/my_robot_ws_copy/install/my_robot_pkg/share/my_robot_pkg/local_setup.sh
+-- Up-to-date symlink: /root/my_robot_ws_copy/install/my_robot_pkg/share/my_robot_pkg/local_setup.zsh
+-- Up-to-date symlink: /root/my_robot_ws_copy/install/my_robot_pkg/share/my_robot_pkg/local_setup.dsv
+-- Symlinking: /root/my_robot_ws_copy/install/my_robot_pkg/share/my_robot_pkg/package.dsv
+-- Up-to-date symlink: /root/my_robot_ws_copy/install/my_robot_pkg/share/ament_index/resource_index/packages/my_robot_pkg
+-- Up-to-date symlink: /root/my_robot_ws_copy/install/my_robot_pkg/share/my_robot_pkg/cmake/my_robot_pkgConfig.cmake
+-- Up-to-date symlink: /root/my_robot_ws_copy/install/my_robot_pkg/share/my_robot_pkg/cmake/my_robot_pkgConfig-version.cmake
+-- Up-to-date symlink: /root/my_robot_ws_copy/install/my_robot_pkg/share/my_robot_pkg/package.xml

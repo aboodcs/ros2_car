@@ -1,0 +1,4 @@
+Invoking command in '/root/my_robot_ws_copy/build/my_robot_pkg': /usr/bin/cmake --build /root/my_robot_ws_copy/build/my_robot_pkg -- -j12 -l12
+Invoked command in '/root/my_robot_ws_copy/build/my_robot_pkg' returned '0': /usr/bin/cmake --build /root/my_robot_ws_copy/build/my_robot_pkg -- -j12 -l12
+Invoking command in '/root/my_robot_ws_copy/build/my_robot_pkg': /usr/bin/cmake --install /root/my_robot_ws_copy/build/my_robot_pkg
+Invoked command in '/root/my_robot_ws_copy/build/my_robot_pkg' returned '0': /usr/bin/cmake --install /root/my_robot_ws_copy/build/my_robot_pkg

@@ -1,0 +1,17 @@
+[0.463s] Invoking command in '/root/my_robot_ws_copy/build/teleop_twist_keyboard': PYTHONPATH=/root/my_robot_ws_copy/build/teleop_twist_keyboard/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/my_robot_ws_copy/install/teleop_twist_keyboard/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /root/my_robot_ws_copy/build/teleop_twist_keyboard/build --no-deps symlink_data
+[0.678s] running develop
+[0.759s] running egg_info
+[0.759s] writing teleop_twist_keyboard.egg-info/PKG-INFO
+[0.759s] writing dependency_links to teleop_twist_keyboard.egg-info/dependency_links.txt
+[0.759s] writing entry points to teleop_twist_keyboard.egg-info/entry_points.txt
+[0.759s] writing requirements to teleop_twist_keyboard.egg-info/requires.txt
+[0.759s] writing top-level names to teleop_twist_keyboard.egg-info/top_level.txt
+[0.760s] reading manifest file 'teleop_twist_keyboard.egg-info/SOURCES.txt'
+[0.760s] writing manifest file 'teleop_twist_keyboard.egg-info/SOURCES.txt'
+[0.761s] running build_ext
+[0.761s] Creating /root/my_robot_ws_copy/install/teleop_twist_keyboard/lib/python3.10/site-packages/teleop-twist-keyboard.egg-link (link to .)
+[0.762s] Installing teleop_twist_keyboard script to /root/my_robot_ws_copy/install/teleop_twist_keyboard/lib/teleop_twist_keyboard
+[0.762s] 
+[0.762s] Installed /root/my_robot_ws_copy/build/teleop_twist_keyboard
+[0.762s] running symlink_data
+[0.783s] Invoked command in '/root/my_robot_ws_copy/build/teleop_twist_keyboard' returned '0': PYTHONPATH=/root/my_robot_ws_copy/build/teleop_twist_keyboard/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/my_robot_ws_copy/install/teleop_twist_keyboard/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /root/my_robot_ws_copy/build/teleop_twist_keyboard/build --no-deps symlink_data
